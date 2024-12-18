@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native bug: attempting to access properties of an object before it's been fully initialized, leading to a 'Cannot read properties of undefined' error.  The `bug.js` file shows the problematic code, while `bugSolution.js` offers a solution using asynchronous operations and optional chaining.
